@@ -1,0 +1,10 @@
+E:\UniversityProjects\MilitaryProject\MilitaryProject\bin\Debug\MilitaryProject.exe.config
+E:\UniversityProjects\MilitaryProject\MilitaryProject\bin\Debug\MilitaryProject.exe
+E:\UniversityProjects\MilitaryProject\MilitaryProject\bin\Debug\MilitaryProject.pdb
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csprojResolveAssemblyReference.cache
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Algorytm1.resources
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Form1.resources
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Properties.Resources.resources
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csproj.GenerateResource.Cache
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.exe
+E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.pdb

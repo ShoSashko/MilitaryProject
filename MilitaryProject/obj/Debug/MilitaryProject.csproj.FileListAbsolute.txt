@@ -8,3 +8,15 @@ E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.
 E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csproj.GenerateResource.Cache
 E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.exe
 E:\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.pdb
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\bin\Debug\MilitaryProject.exe.config
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\bin\Debug\MilitaryProject.exe
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\bin\Debug\MilitaryProject.pdb
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csprojResolveAssemblyReference.cache
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Algorytm1.resources
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Algorytm2.resources
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Form1.resources
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Properties.Resources.resources
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csproj.GenerateResource.Cache
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.exe
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.pdb
+D:\Old\Універ\UniversityProjects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Algorythm3.resources

@@ -715,6 +715,7 @@
             this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem.Size = new System.Drawing.Size(667, 22);
             this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem.Text = "Розрахунок потреби автомобілів для виконання обсягів перевезень матеріально-техні" +
     "чних засобів бригади";
+            this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem.Click += new System.EventHandler(this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem_Click);
             // 
             // toolStrip2
             // 
@@ -733,6 +734,7 @@
             this.Controls.Add(this.toolStrip1);
             this.Name = "Form1";
             this.Text = " ";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);

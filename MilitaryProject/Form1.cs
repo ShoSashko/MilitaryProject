@@ -52,13 +52,23 @@ namespace MilitaryProject
 
         private void toolStripComboBox1_Click(object sender, EventArgs e)
         {
-
         }
 
         private void потребаПальногоНаМаршToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FuelCalculate fuelC = new FuelCalculate();
             fuelC.Show();
+        }
+
+        private void розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg5 alg5 = new Alg5();
+            alg5.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -22,5 +22,37 @@ namespace MilitaryProject
             Algorytm1 task1 = new Algorytm1();
             task1.Show();
         }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Algorytm2 task2 = new Algorytm2();
+            task2.Show();
+        }
+
+        private void роToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Algorythm3 task3 = new Algorythm3();
+            task3.Show();
+        }
+
+        private void розрахунокЧасуЗміниПозиційрайонівРозташуванняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void алгоритмРозрахункуОчікуваногоЧасуЗустрічіТаВіддаленняЙмовірногоРубежуЗустрічіЗПротивникомToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void алгоритмРозрахункуПоВогневомуУраженнюПротивникаУЗустрічномуБоюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripComboBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

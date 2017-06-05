@@ -21,10 +21,11 @@ namespace MilitaryProject
         {
             if(Int32.Parse(txt_BoxGk.Text) > Int32.Parse(txt_BoxGp.Text))
             {
-                txt_BoxTвт.Text = (Int32.Parse(txt_BoxT.Text) + Double.Parse(txt_box_D.Text) / Double.Parse(txt_BoxV.Text) + ((Double.Parse(txt_BoxGk.Text) - Double.Parse(txt_BoxGp.Text)) / 0.6 * Double.Parse(txt_BoxV.Text)) * Double.Parse(txt_Boxtn.Text)).ToString();
-
-                txt_BoxtRez.Text = (Double.Parse(txt_box_D.Text) / Double.Parse(txt_BoxV.Text) + Double.Parse(txt_Boxtn.Text) + Double.Parse(txt_BoxTвт.Text)).ToString();
+                Tools.Parsing("T D V Gk Gp tn" ,txt_BoxT.Text, txt_box_D.Text, txt_BoxV.Text, txt_BoxGk.Text, txt_BoxGp.Text, txt_Boxtn.Text);
+                txt_BoxTвт.Text = (Tools.dictionary["T"] + (Tools.dictionary["D"] / Tools.dictionary["V"])).ToString();
+                txt_BoxT.Text = " "; txt_box_D.Text = " "; txt_BoxV.Text = " "; txt_BoxGk.Text = " "; txt_BoxGp.Text = " "; txt_Boxtn.Text = " ";
             }
+            else { MessageBox.Show("Condition isn't true"); }
         }
     }
 }

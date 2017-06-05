@@ -54,5 +54,11 @@ namespace MilitaryProject
         {
 
         }
+
+        private void потребаПальногоНаМаршToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FuelCalculate fuelC = new FuelCalculate();
+            fuelC.Show();
+        }
     }
 }

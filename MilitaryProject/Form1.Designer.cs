@@ -34,7 +34,6 @@
             this.розрахунокТривалостіМаршрутуToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.роToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStrip2 = new System.Windows.Forms.ToolStrip();
             this.Vf = new System.Windows.Forms.ToolStripDropDownButton();
             this.розрахунокToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -103,6 +102,7 @@
             this.потребаПальногоНаМаршToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.розрахунокПідйомуВійськовихЗапасівРечовогоМайнаДляЗдійсненняМаршуToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStrip2 = new System.Windows.Forms.ToolStrip();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -155,14 +155,6 @@
             this.роToolStripMenuItem.Size = new System.Drawing.Size(486, 22);
             this.роToolStripMenuItem.Text = "Розрахунок тривалості перевезення підрозділів залізничним транспортом ";
             this.роToolStripMenuItem.Click += new System.EventHandler(this.роToolStripMenuItem_Click);
-            // 
-            // toolStrip2
-            // 
-            this.toolStrip2.Location = new System.Drawing.Point(0, 25);
-            this.toolStrip2.Name = "toolStrip2";
-            this.toolStrip2.Size = new System.Drawing.Size(1025, 25);
-            this.toolStrip2.TabIndex = 1;
-            this.toolStrip2.Text = "toolStrip2";
             // 
             // Vf
             // 
@@ -704,8 +696,10 @@
             // потребаПальногоНаМаршToolStripMenuItem
             // 
             this.потребаПальногоНаМаршToolStripMenuItem.Name = "потребаПальногоНаМаршToolStripMenuItem";
+            this.потребаПальногоНаМаршToolStripMenuItem.ShowShortcutKeys = false;
             this.потребаПальногоНаМаршToolStripMenuItem.Size = new System.Drawing.Size(667, 22);
             this.потребаПальногоНаМаршToolStripMenuItem.Text = "Потреба пального на марш";
+            this.потребаПальногоНаМаршToolStripMenuItem.Click += new System.EventHandler(this.потребаПальногоНаМаршToolStripMenuItem_Click);
             // 
             // розрахунокПідйомуВійськовихЗапасівРечовогоМайнаДляЗдійсненняМаршуToolStripMenuItem
             // 
@@ -721,6 +715,14 @@
             this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem.Size = new System.Drawing.Size(667, 22);
             this.розрахунокПотребиАвтомобілівДляВиконанняОбсягівПеревезеньМатеріальнотехнічнихЗасобівБригадиToolStripMenuItem.Text = "Розрахунок потреби автомобілів для виконання обсягів перевезень матеріально-техні" +
     "чних засобів бригади";
+            // 
+            // toolStrip2
+            // 
+            this.toolStrip2.Location = new System.Drawing.Point(0, 25);
+            this.toolStrip2.Name = "toolStrip2";
+            this.toolStrip2.Size = new System.Drawing.Size(1025, 25);
+            this.toolStrip2.TabIndex = 1;
+            this.toolStrip2.Text = "toolStrip2";
             // 
             // Form1
             // 

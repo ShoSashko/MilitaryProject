@@ -14,8 +14,6 @@ namespace MilitaryProject
         [STAThread]
         static void Main()
         {
-            //asdasdasdasihdiasdihasdiuhasidasidiasdidiqwidqhqoiuwdh
-            //asdasdasdasdasd
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

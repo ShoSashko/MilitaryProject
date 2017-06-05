@@ -34,3 +34,4 @@ D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Properties
 D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csproj.GenerateResource.Cache
 D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.FuelCalculate.resources
 D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg5.resources
+D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg6.resources

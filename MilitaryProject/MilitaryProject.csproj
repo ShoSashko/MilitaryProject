@@ -52,6 +52,12 @@
     <Compile Include="Alg5.Designer.cs">
       <DependentUpon>Alg5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg6.Designer.cs">
+      <DependentUpon>Alg6.cs</DependentUpon>
+    </Compile>
     <Compile Include="Algorythm3.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -87,6 +93,9 @@
     <Compile Include="Tools.cs" />
     <EmbeddedResource Include="Alg5.resx">
       <DependentUpon>Alg5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg6.resx">
+      <DependentUpon>Alg6.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Algorythm3.resx">
       <DependentUpon>Algorythm3.cs</DependentUpon>

@@ -70,5 +70,11 @@ namespace MilitaryProject
         {
 
         }
+
+        private void розрахунокВизначенняМожливостейЗЕвакуаціїРакетноартилерійськогоОзброєнняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg6 alg6 = new Alg6();
+            alg6.Show();
+        }
     }
 }

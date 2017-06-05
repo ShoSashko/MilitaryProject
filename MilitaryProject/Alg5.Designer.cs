@@ -300,7 +300,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Alg5";
-            this.Text = "  ";
+            this.Text = "  Розрахунки на підвезення запасів матеріально-технічних засобів ";
             this.Load += new System.EventHandler(this.Alg5_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

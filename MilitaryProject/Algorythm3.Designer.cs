@@ -270,7 +270,7 @@
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label5);
             this.Name = "Algorythm3";
-            this.Text = "Algorythm3";
+            this.Text = "Розрахунок тривалості перевезення підрозділів залізничним транспортом";
             this.ResumeLayout(false);
             this.PerformLayout();
 

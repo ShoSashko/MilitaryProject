@@ -348,7 +348,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Algorytm2";
-            this.Text = "Algorytm2";
+            this.Text = "Розрахунок довжини маршруту, середньої швидкості і тривалості руху похідних колон" +
+    "";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -188,12 +188,14 @@
             this.розрахунокToolStripMenuItem.Name = "розрахунокToolStripMenuItem";
             this.розрахунокToolStripMenuItem.Size = new System.Drawing.Size(1155, 22);
             this.розрахунокToolStripMenuItem.Text = "Розрахунок основних показників маневрених можливостей";
+            this.розрахунокToolStripMenuItem.Click += new System.EventHandler(this.розрахунокToolStripMenuItem_Click);
             // 
             // розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem
             // 
             this.розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem.Name = "розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem";
             this.розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem.Size = new System.Drawing.Size(1155, 22);
             this.розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem.Text = "Розрахунок маневрених можливостей з’єднань, частин та підрозділів ";
+            this.розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem.Click += new System.EventHandler(this.розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem_Click);
             // 
             // розрахункиЧасуВиходуПохідноїОхорониНаВихіднийРубіжДляЙогоЗахопленняToolStripMenuItem
             // 
@@ -201,6 +203,7 @@
     "tem";
             this.розрахункиЧасуВиходуПохідноїОхорониНаВихіднийРубіжДляЙогоЗахопленняToolStripMenuItem.Size = new System.Drawing.Size(1155, 22);
             this.розрахункиЧасуВиходуПохідноїОхорониНаВихіднийРубіжДляЙогоЗахопленняToolStripMenuItem.Text = "Розрахунки часу виходу похідної охорони на вихідний рубіж для його захоплення";
+            this.розрахункиЧасуВиходуПохідноїОхорониНаВихіднийРубіжДляЙогоЗахопленняToolStripMenuItem.Click += new System.EventHandler(this.розрахункиЧасуВиходуПохідноїОхорониНаВихіднийРубіжДляЙогоЗахопленняToolStripMenuItem_Click);
             // 
             // розрахункиЧасуВиходуДругогоЕшелонурезервуПротивникаНаРубіжКонтратакиToolStripMenuItem
             // 
@@ -208,12 +211,14 @@
     "Item";
             this.розрахункиЧасуВиходуДругогоЕшелонурезервуПротивникаНаРубіжКонтратакиToolStripMenuItem.Size = new System.Drawing.Size(1155, 22);
             this.розрахункиЧасуВиходуДругогоЕшелонурезервуПротивникаНаРубіжКонтратакиToolStripMenuItem.Text = "Розрахунки часу виходу другого ешелону (резерву) противника на рубіж контратаки";
+            this.розрахункиЧасуВиходуДругогоЕшелонурезервуПротивникаНаРубіжКонтратакиToolStripMenuItem.Click += new System.EventHandler(this.розрахункиЧасуВиходуДругогоЕшелонурезервуПротивникаНаРубіжКонтратакиToolStripMenuItem_Click);
             // 
             // розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem
             // 
             this.розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem.Name = "розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem";
             this.розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem.Size = new System.Drawing.Size(1155, 22);
             this.розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem.Text = "Розрахунки часу на розгортання противника в бойовий порядок";
+            this.розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem.Click += new System.EventHandler(this.розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem_Click);
             // 
             // очікуванийЧасЗустрічіІВідстаньІмовірногоРубежуЗустрічіЗПротивникомToolStripMenuItem
             // 

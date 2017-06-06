@@ -26,7 +26,7 @@ namespace MilitaryProject
         {
             double sumI = 0;
             double sumV = 0;
-            Tools.Parsing("Km Gk Gp tn", Txt_boxKm.Text, Txt_boxGk.Text, Txt_boxGp.Text, Txt_boxTn.Text);
+          
             //start D
             string[] ValueI = Txt_boxIi.Text.Split(' ');
             for (int i = 0; i < ValueI.Length; i++)
@@ -52,9 +52,8 @@ namespace MilitaryProject
             //completed V
 
             //start t
-
-            txt_Boxt.Text = ((sumI / sumV) + (Tools.dictionary["Gk"] - Tools.dictionary["Gp"]) / 0.6 * sumV + Tools.dictionary["tn"]).ToString();
-            
+            txt_Boxt.Text = ((Double.Parse(Txt_boxGk.Text) - Double.Parse(Txt_boxGp.Text)) / 0.6 * Double.Parse(txt_BoxV.Text) + Double.Parse(Txt_boxTn.Text)).ToString();
+          
             //completed t
             
             //Warning Km

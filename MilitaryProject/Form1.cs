@@ -76,5 +76,36 @@ namespace MilitaryProject
             Alg6 alg6 = new Alg6();
             alg6.Show();
         }
+
+        private void розрахунокToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg4 alg4 = new Alg4();
+            alg4.Show();
+        }
+
+        private void розрахунокМаневренихМожливостейЗєднаньЧастинТаПідрозділівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg7 alg7 = new Alg7();
+
+            alg7.Show();
+        }
+
+        private void розрахункиЧасуВиходуПохідноїОхорониНаВихіднийРубіжДляЙогоЗахопленняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg8 alg8 = new Alg8();
+            alg8.Show();
+        }
+
+        private void розрахункиЧасуВиходуДругогоЕшелонурезервуПротивникаНаРубіжКонтратакиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg9 alg9 = new Alg9();
+            alg9.Show();
+        }
+
+        private void розрахункиЧасуНаРозгортанняПротивникаВБойовийПорядокToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg10 alg10 = new Alg10();
+            alg10.Show();
+        }
     }
 }

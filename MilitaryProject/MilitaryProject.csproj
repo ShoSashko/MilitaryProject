@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alg10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg10.Designer.cs">
+      <DependentUpon>Alg10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg4.Designer.cs">
+      <DependentUpon>Alg4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg5.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +69,24 @@
     </Compile>
     <Compile Include="Alg6.Designer.cs">
       <DependentUpon>Alg6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg7.Designer.cs">
+      <DependentUpon>Alg7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg8.Designer.cs">
+      <DependentUpon>Alg8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg9.Designer.cs">
+      <DependentUpon>Alg9.cs</DependentUpon>
     </Compile>
     <Compile Include="Algorythm3.cs">
       <SubType>Form</SubType>
@@ -90,12 +120,26 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tools.cs" />
+    <EmbeddedResource Include="Alg10.resx">
+      <DependentUpon>Alg10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg4.resx">
+      <DependentUpon>Alg4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Alg5.resx">
       <DependentUpon>Alg5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg6.resx">
       <DependentUpon>Alg6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg7.resx">
+      <DependentUpon>Alg7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg8.resx">
+      <DependentUpon>Alg8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg9.resx">
+      <DependentUpon>Alg9.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Algorythm3.resx">
       <DependentUpon>Algorythm3.cs</DependentUpon>

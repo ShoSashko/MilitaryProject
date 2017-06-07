@@ -37,7 +37,8 @@ namespace MilitaryProject
 
         private void розрахунокЧасуЗміниПозиційрайонівРозташуванняToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Alg13 alg13 = new Alg13();
+            alg13.Show();
         }
 
         private void алгоритмРозрахункуОчікуваногоЧасуЗустрічіТаВіддаленняЙмовірногоРубежуЗустрічіЗПротивникомToolStripMenuItem_Click(object sender, EventArgs e)
@@ -106,6 +107,30 @@ namespace MilitaryProject
         {
             Alg10 alg10 = new Alg10();
             alg10.Show();
+        }
+
+        private void очікуванийЧасЗустрічіІВідстаньІмовірногоРубежуЗустрічіЗПротивникомToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg11 alg11 = new Alg11();
+            alg11.Show();
+        }
+
+        private void очікуванийЧасІШвидкістьРухуПриПереслідуванніПротивникаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg12 alg12 = new Alg12();
+            alg12.Show();
+        }
+
+        private void розрахунокЧасуНаВисуванняІРозгортанняПідрозділівДляПереходуВАтакуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg14 alg14 = new Alg14();
+            alg14.Show();
+        }
+
+        private void алгоритмРозрахункуВводуВБійДругогоЕшелонурезервуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg15 alg15 = new Alg15();
+            alg15.Show();
         }
     }
 }

@@ -55,3 +55,8 @@ D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg7.re
 D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg8.resources
 D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg9.resources
 D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg10.resources
+D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg11.resources
+D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg12.resources
+D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg13.resources
+D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg14.resources
+D:\Proj\MilitaryProject-master\MilitaryProject\obj\Debug\MilitaryProject.Alg15.resources

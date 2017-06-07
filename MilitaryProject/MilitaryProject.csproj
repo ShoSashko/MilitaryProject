@@ -52,6 +52,36 @@
     <Compile Include="Alg10.Designer.cs">
       <DependentUpon>Alg10.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg11.Designer.cs">
+      <DependentUpon>Alg11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg12.Designer.cs">
+      <DependentUpon>Alg12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg13.Designer.cs">
+      <DependentUpon>Alg13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg14.Designer.cs">
+      <DependentUpon>Alg14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg15.Designer.cs">
+      <DependentUpon>Alg15.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg4.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +152,21 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Alg10.resx">
       <DependentUpon>Alg10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg11.resx">
+      <DependentUpon>Alg11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg12.resx">
+      <DependentUpon>Alg12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg13.resx">
+      <DependentUpon>Alg13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg14.resx">
+      <DependentUpon>Alg14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg15.resx">
+      <DependentUpon>Alg15.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg4.resx">
       <DependentUpon>Alg4.cs</DependentUpon>

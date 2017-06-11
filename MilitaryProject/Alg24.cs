@@ -19,19 +19,26 @@ namespace MilitaryProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // number should be equal 
-            double help = 0;
-
-            string[] partNi = Txt_BoxNi.Text.Split(' ');
-            string[] partni = Txt_boxnsmalli.Text.Split(' ');
-            string[] partmi = txt_Boxmi.Text.Split(' ');
-
-            for(int i = 0; i < partNi.Length; i++)
+            try
             {
-                help += (Double.Parse(partNi[i]) * Double.Parse(partni[i])) / Double.Parse(partmi[i]);
+                // number should be equal 
+                double help = 0;
 
+                string[] partNi = Txt_BoxNi.Text.Split(' ');
+                string[] partni = Txt_boxnsmalli.Text.Split(' ');
+                string[] partmi = txt_Boxmi.Text.Split(' ');
+
+                for (int i = 0; i < partNi.Length; i++)
+                {
+                    help += (Double.Parse(partNi[i]) * Double.Parse(partni[i])) / Double.Parse(partmi[i]);
+
+                }
+                txt_BoxM.Text = help.ToString();
             }
-            txt_BoxM.Text = help.ToString();
+            catch (Exception)
+            {
+                MessageBox.Show("Не правильний формат вводу.");
+            }
         }
     }
 }

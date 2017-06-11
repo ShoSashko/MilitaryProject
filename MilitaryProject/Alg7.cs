@@ -19,13 +19,20 @@ namespace MilitaryProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txt_BoxtrezВитяг.Text = (Double.Parse(Txt_boxLВитяг.Text) / Double.Parse(Txt_boxVвитяг.Text)).ToString();
+            try
+            {
+                txt_BoxtrezВитяг.Text = (Double.Parse(Txt_boxLВитяг.Text) / Double.Parse(Txt_boxVвитяг.Text)).ToString();
 
-            txt_BoxTруху.Text = (Double.Parse(Txt_boxS.Text) / Double.Parse(Txt_boxVсер.Text)).ToString();
+                txt_BoxTруху.Text = (Double.Parse(Txt_boxS.Text) / Double.Parse(Txt_boxVсер.Text)).ToString();
 
-            txt_Boxtвтяг.Text = ((Double.Parse(Txt_boxГк.Text) - Double.Parse(txt_BoxГр.Text) / Double.Parse(Txt_boxVвтяг.Text))).ToString();
+                txt_Boxtвтяг.Text = ((Double.Parse(Txt_boxГк.Text) - Double.Parse(txt_BoxГр.Text) / Double.Parse(Txt_boxVвтяг.Text))).ToString();
 
-            txt_BoxTС3.Text = ((Double.Parse(txt_BoxtrezВитяг.Text) + Double.Parse(txt_BoxTруху.Text)) + Double.Parse(txt_Boxtвтяг.Text)).ToString();
+                txt_BoxTС3.Text = ((Double.Parse(txt_BoxtrezВитяг.Text) + Double.Parse(txt_BoxTруху.Text)) + Double.Parse(txt_Boxtвтяг.Text)).ToString();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Не правильний формат вводу.");
+            }
         }
     }
 }

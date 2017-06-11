@@ -19,13 +19,19 @@ namespace MilitaryProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txt_Boxtc.Text = (Double.Parse(txt_Boxt1.Text) + Double.Parse(txt_Boxt2.Text) + Double.Parse(txt_Boxt3.Text)).ToString();
-            txt_Boxtn.Text = (Double.Parse(txt_Boxt11.Text) + Double.Parse(txt_Boxt22.Text) + Double.Parse(txt_Boxt33.Text)).ToString();
+            try
+            {
+                txt_Boxtc.Text = (Double.Parse(txt_Boxt1.Text) + Double.Parse(txt_Boxt2.Text) + Double.Parse(txt_Boxt3.Text)).ToString();
+                txt_Boxtn.Text = (Double.Parse(txt_Boxt11.Text) + Double.Parse(txt_Boxt22.Text) + Double.Parse(txt_Boxt33.Text)).ToString();
 
-            txt_Boxtз.Text = ((Double.Parse(txt_BoxD.Text) + Double.Parse(txt_Boxtc.Text) * Double.Parse(txt_BoxVc.Text) + Double.Parse(txt_Boxtn.Text) * Double.Parse(txt_BoxVn.Text)) / (Double.Parse(txt_BoxVc.Text) + Double.Parse(txt_BoxVn.Text))).ToString();
+                txt_Boxtз.Text = ((Double.Parse(txt_BoxD.Text) + Double.Parse(txt_Boxtc.Text) * Double.Parse(txt_BoxVc.Text) + Double.Parse(txt_Boxtn.Text) * Double.Parse(txt_BoxVn.Text)) / (Double.Parse(txt_BoxVc.Text) + Double.Parse(txt_BoxVn.Text))).ToString();
 
-            txt_Boxlp.Text = (Double.Parse(txt_BoxVc.Text) * (Double.Parse(txt_Boxtз.Text) - Double.Parse(txt_Boxtn.Text))).ToString();
-
+                txt_Boxlp.Text = (Double.Parse(txt_BoxVc.Text) * (Double.Parse(txt_Boxtз.Text) - Double.Parse(txt_Boxtn.Text))).ToString();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Не правильний формат вводу.");
+            }
 
         }
     }

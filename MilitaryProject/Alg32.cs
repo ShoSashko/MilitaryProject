@@ -19,9 +19,15 @@ namespace MilitaryProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txt_BoxtXm.Text = (((Double.Parse(txt_Boxda.Text) * Double.Parse(txt_BoxXmp.Text)) + (Double.Parse(txt_Boxdp.Text) * Double.Parse(Txt_boxXma.Text))) / (Double.Parse(txt_Boxda.Text) + Double.Parse(txt_Boxdp.Text))).ToString();
-            txt_BoxyYm.Text = (((Double.Parse(txt_Boxda.Text) * Double.Parse(txt_BoxYmp.Text)) + (Double.Parse(txt_Boxdp.Text) * Double.Parse(txt_BoxYma.Text))) / (Double.Parse(txt_Boxda.Text) + Double.Parse(txt_Boxdp.Text))).ToString();
-
+            try
+            {
+                txt_BoxtXm.Text = (((Double.Parse(txt_Boxda.Text) * Double.Parse(txt_BoxXmp.Text)) + (Double.Parse(txt_Boxdp.Text) * Double.Parse(Txt_boxXma.Text))) / (Double.Parse(txt_Boxda.Text) + Double.Parse(txt_Boxdp.Text))).ToString();
+                txt_BoxyYm.Text = (((Double.Parse(txt_Boxda.Text) * Double.Parse(txt_BoxYmp.Text)) + (Double.Parse(txt_Boxdp.Text) * Double.Parse(txt_BoxYma.Text))) / (Double.Parse(txt_Boxda.Text) + Double.Parse(txt_Boxdp.Text))).ToString();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Не правильний формат вводу.");
+            }
         }
 
         private void Alg32_Load(object sender, EventArgs e)

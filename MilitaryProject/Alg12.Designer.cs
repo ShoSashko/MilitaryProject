@@ -53,6 +53,7 @@
             this.button1.TabIndex = 214;
             this.button1.Text = "Розрахувати";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Txt_boxVn
             // 

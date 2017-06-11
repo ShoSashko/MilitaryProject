@@ -19,7 +19,15 @@ namespace MilitaryProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txt_Boxtn.Text = (Double.Parse(Txt_BoxT.Text) - (Double.Parse(Txt_boxDp.Text) * 60) / Double.Parse(txt_BoxVвис.Text)).ToString();
+            try
+            {
+                txt_Boxtn.Text = (Double.Parse(Txt_BoxT.Text) - (Double.Parse(Txt_boxDp.Text) * 60) / Double.Parse(txt_BoxVвис.Text)).ToString();
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Не правильний формат вводу.");
+            }
         }
     }
 }

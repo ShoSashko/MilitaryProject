@@ -34,5 +34,10 @@ namespace MilitaryProject
             }
 
         }
+
+        private void Alg21_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Час проходження зазначених рубежів (вихідного, регулювання, розгортання в батальйонні, ротні, взводні колони, рубежу переходу в атаку та рубежу спішування) год. хв. (з наказу (розпорядження) командира бригади (батальйону);</value>
+  </data>
 </root>

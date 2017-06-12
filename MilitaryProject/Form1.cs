@@ -43,7 +43,8 @@ namespace MilitaryProject
 
         private void алгоритмРозрахункуОчікуваногоЧасуЗустрічіТаВіддаленняЙмовірногоРубежуЗустрічіЗПротивникомToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Alg21 alg21 = new Alg21();
+            alg21.Show();
         }
 
         private void алгоритмРозрахункуПоВогневомуУраженнюПротивникаУЗустрічномуБоюToolStripMenuItem_Click(object sender, EventArgs e)
@@ -161,6 +162,43 @@ namespace MilitaryProject
         {
             Alg5k alg5 = new Alg5k();
             alg5.Show();
+        }
+
+        private void алгоритмРозрахункуТривалостіВтягуванняПохідноїКолониВРайонЗосередженняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg16 alg16 = new Alg16();
+            alg16.Show();
+        }
+
+        private void алгоритмРозрахункуТривалостіВисуванняПохідноїКолониДоВихідногоРубежупунктуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg17 alg17 = new Alg17();
+            alg17.Show();
+        }
+
+        private void алгоритмРозрахункуЧасуПроходженняВихідногоРубежупунктуРубежупунктуРегулюванняГоловоюТаХвостомПохідноїКолониToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg18 alg18 = new Alg18();
+            alg18.Show();
+        }
+
+        private void алгоритмРозрахункуГлибиниПохідногоПорядкуЩоСкладаєтьсяЗДекількохПохіднихКолонToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg19 alg19 = new Alg19();
+            alg19.Show();
+
+        }
+
+        private void алгоритмРозрахункуТривалостіПодоланняВузькихМісцьДілянокМаршрутуЩоВажкоДолаютьсяToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg20 alg20 = new Alg20();
+            alg20.Show();
+        }
+
+        private void алгоритмРозрахункуЧасуНеобхідногоДляВисуванняТаВиходуНаРубежівихіднийРегулюванняРозгортанняВБатальйонніРотніВзводніКолониРубіжПереходуВАтакуТаРубіжСпішуванняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg22FM alg22 = new Alg22FM();
+            alg22.Show();
         }
     }
 }

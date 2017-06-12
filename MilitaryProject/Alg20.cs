@@ -28,5 +28,10 @@ namespace MilitaryProject
                 MessageBox.Show("Не правильний формат вводу.");
             }
         }
+
+        private void Alg20_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

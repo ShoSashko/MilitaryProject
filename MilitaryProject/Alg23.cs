@@ -23,8 +23,6 @@ namespace MilitaryProject
             {
                 txt_BoxNцзрозб.Text = (Double.Parse(Txt_Boxn.Text) * Double.Parse(Txt_boxKбвф.Text)).ToString();
 
-
-
                 double temp = 0;
                 for (int i = 0; i < Int32.Parse(Txt_Boxn.Text); i++)
                 {

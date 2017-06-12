@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MilitaryProject
 {
-    public partial class FuelCalculate : Form
+    public partial class Alg2k : Form
     {
-        public FuelCalculate()
+        public Alg2k()
         {
             InitializeComponent();
         }
@@ -21,9 +21,7 @@ namespace MilitaryProject
         {
             try
             {
-
-                textBox5.Text = (Double.Parse(textBox4.Text) / Double.Parse(textBox7.Text)).ToString();
-                textBox6.Text = ((Double.Parse(textBox1.Text) * Double.Parse(textBox2.Text) / Double.Parse(textBox7.Text)) * Double.Parse(textBox3.Text)).ToString();
+                res.Text = (Double.Parse(txt1.Text) * Double.Parse(txt4.Text) + Double.Parse(txt2.Text) * Double.Parse(txt5.Text) + Double.Parse(txt3.Text) * Double.Parse(txt6.Text)).ToString();
             }
             catch (Exception)
             {

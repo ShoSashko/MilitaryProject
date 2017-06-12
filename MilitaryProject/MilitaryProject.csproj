@@ -82,11 +82,143 @@
     <Compile Include="Alg15.Designer.cs">
       <DependentUpon>Alg15.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg16.Designer.cs">
+      <DependentUpon>Alg16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg17.Designer.cs">
+      <DependentUpon>Alg17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg18.Designer.cs">
+      <DependentUpon>Alg18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg19.Designer.cs">
+      <DependentUpon>Alg19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg1k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg1k.Designer.cs">
+      <DependentUpon>Alg1k.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg20.Designer.cs">
+      <DependentUpon>Alg20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg21.Designer.cs">
+      <DependentUpon>Alg21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg22FM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg22FM.Designer.cs">
+      <DependentUpon>Alg22FM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg23.Designer.cs">
+      <DependentUpon>Alg23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg24.Designer.cs">
+      <DependentUpon>Alg24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg25.Designer.cs">
+      <DependentUpon>Alg25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg26.Designer.cs">
+      <DependentUpon>Alg26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg27.Designer.cs">
+      <DependentUpon>Alg27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg28.Designer.cs">
+      <DependentUpon>Alg28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg29.Designer.cs">
+      <DependentUpon>Alg29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg2k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg2k.Designer.cs">
+      <DependentUpon>Alg2k.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg30.Designer.cs">
+      <DependentUpon>Alg30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg31.Designer.cs">
+      <DependentUpon>Alg31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg32.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg32.Designer.cs">
+      <DependentUpon>Alg32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg33.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg33.Designer.cs">
+      <DependentUpon>Alg33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg3k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg3k.Designer.cs">
+      <DependentUpon>Alg3k.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg4.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Alg4.Designer.cs">
       <DependentUpon>Alg4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg4k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg4k.Designer.cs">
+      <DependentUpon>Alg4k.cs</DependentUpon>
     </Compile>
     <Compile Include="Alg5.cs">
       <SubType>Form</SubType>
@@ -94,11 +226,23 @@
     <Compile Include="Alg5.Designer.cs">
       <DependentUpon>Alg5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg5k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg5k.Designer.cs">
+      <DependentUpon>Alg5k.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg6.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Alg6.Designer.cs">
       <DependentUpon>Alg6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg6k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg6k.Designer.cs">
+      <DependentUpon>Alg6k.cs</DependentUpon>
     </Compile>
     <Compile Include="Alg7.cs">
       <SubType>Form</SubType>
@@ -148,8 +292,12 @@
     <Compile Include="FuelCalculate.Designer.cs">
       <DependentUpon>FuelCalculate.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools.cs" />
     <EmbeddedResource Include="Alg10.resx">
       <DependentUpon>Alg10.cs</DependentUpon>
     </EmbeddedResource>
@@ -168,14 +316,83 @@
     <EmbeddedResource Include="Alg15.resx">
       <DependentUpon>Alg15.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Alg16.resx">
+      <DependentUpon>Alg16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg17.resx">
+      <DependentUpon>Alg17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg18.resx">
+      <DependentUpon>Alg18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg19.resx">
+      <DependentUpon>Alg19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg20.resx">
+      <DependentUpon>Alg20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg21.resx">
+      <DependentUpon>Alg21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg22FM.resx">
+      <DependentUpon>Alg22FM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg23.resx">
+      <DependentUpon>Alg23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg24.resx">
+      <DependentUpon>Alg24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg25.resx">
+      <DependentUpon>Alg25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg26.resx">
+      <DependentUpon>Alg26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg27.resx">
+      <DependentUpon>Alg27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg28.resx">
+      <DependentUpon>Alg28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg29.resx">
+      <DependentUpon>Alg29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg2k.resx">
+      <DependentUpon>Alg2k.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg30.resx">
+      <DependentUpon>Alg30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg31.resx">
+      <DependentUpon>Alg31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg32.resx">
+      <DependentUpon>Alg32.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg33.resx">
+      <DependentUpon>Alg33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg3k.resx">
+      <DependentUpon>Alg3k.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Alg4.resx">
       <DependentUpon>Alg4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg4k.resx">
+      <DependentUpon>Alg4k.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg5.resx">
       <DependentUpon>Alg5.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Alg5k.resx">
+      <DependentUpon>Alg5k.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Alg6.resx">
       <DependentUpon>Alg6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg6k.resx">
+      <DependentUpon>Alg6k.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg7.resx">
       <DependentUpon>Alg7.cs</DependentUpon>
@@ -210,6 +427,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="bin\Debug\MilitaryProject.exe.config" />
+    <None Include="bin\Debug\MilitaryProject.vshost.exe.config" />
+    <None Include="bin\Debug\MilitaryProject.vshost.exe.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -222,6 +442,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\MilitaryProject.exe" />
+    <Content Include="bin\Debug\MilitaryProject.pdb" />
+    <Content Include="bin\Debug\MilitaryProject.vshost.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

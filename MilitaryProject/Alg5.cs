@@ -39,5 +39,10 @@ namespace MilitaryProject
                 MessageBox.Show("Не правильний формат вводу.");
             }
         }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

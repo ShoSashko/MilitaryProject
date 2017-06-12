@@ -132,5 +132,35 @@ namespace MilitaryProject
             Alg15 alg15 = new Alg15();
             alg15.Show();
         }
+
+        private void розрахунокПідйомуВійськовихЗапасівРечовогоМайнаДляЗдійсненняМаршуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg1k alg1 = new Alg1k();
+            alg1.Show();
+        }
+
+        private void розрахунокВизначенняОбємуПідвезенняподачіРакетІБоєприпасівРіБВПідрозділиМеханізованоїБригадиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg3k alg3 = new Alg3k();
+            alg3.Show();
+        }
+
+        private void розрахунокВизначенняПотребиВЕвакуаціїРакетноартилерійськогоОзброєнняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg2k alg2 = new Alg2k();
+            alg2.Show();
+        }
+
+        private void розрахункиАерозольногодимовогоМаскуванняРубежівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg4k alg4 = new Alg4k();
+            alg4.Show();
+        }
+
+        private void розрахункиЧасуПеретинуЗониРадіоактивногоЗараженняПоЗаданійЗоніОпроміненняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg5k alg5 = new Alg5k();
+            alg5.Show();
+        }
     }
 }

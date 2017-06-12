@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Час проходження рубежу (пункту) хвостом похідної колони, що йде попереду, год., хв., для головної (1-ої в похідному порядку) колони цим часом є час, який назначено для проходження рубежу (пункту) головою всього похідного порядку, наприклад, колоною головних сил на маршруті (з бази даних);</value>
+  </data>
 </root>

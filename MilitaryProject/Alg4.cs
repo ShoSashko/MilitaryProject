@@ -46,5 +46,15 @@ namespace MilitaryProject
                 MessageBox.Show("Не правильний формат вводу.");
             }
         }
+
+        private void label32_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Alg4_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

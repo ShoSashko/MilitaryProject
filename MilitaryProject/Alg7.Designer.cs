@@ -68,11 +68,23 @@
             this.txt_BoxГр = new System.Windows.Forms.TextBox();
             this.label17 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label29 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label36 = new System.Windows.Forms.Label();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label39 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txt_Boxtвтяг
             // 
-            this.txt_Boxtвтяг.Location = new System.Drawing.Point(524, 224);
+            this.txt_Boxtвтяг.Location = new System.Drawing.Point(659, 483);
             this.txt_Boxtвтяг.Name = "txt_Boxtвтяг";
             this.txt_Boxtвтяг.Size = new System.Drawing.Size(69, 20);
             this.txt_Boxtвтяг.TabIndex = 121;
@@ -80,7 +92,7 @@
             // label26
             // 
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label26.Location = new System.Drawing.Point(485, 231);
+            this.label26.Location = new System.Drawing.Point(620, 490);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(33, 13);
             this.label26.TabIndex = 120;
@@ -89,7 +101,7 @@
             // label27
             // 
             this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label27.Location = new System.Drawing.Point(475, 222);
+            this.label27.Location = new System.Drawing.Point(610, 481);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(20, 22);
             this.label27.TabIndex = 119;
@@ -97,7 +109,7 @@
             // 
             // txt_BoxTруху
             // 
-            this.txt_BoxTруху.Location = new System.Drawing.Point(524, 166);
+            this.txt_BoxTруху.Location = new System.Drawing.Point(659, 425);
             this.txt_BoxTруху.Name = "txt_BoxTруху";
             this.txt_BoxTруху.Size = new System.Drawing.Size(69, 20);
             this.txt_BoxTруху.TabIndex = 118;
@@ -105,7 +117,7 @@
             // label19
             // 
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label19.Location = new System.Drawing.Point(485, 173);
+            this.label19.Location = new System.Drawing.Point(620, 432);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(26, 13);
             this.label19.TabIndex = 117;
@@ -114,7 +126,7 @@
             // label25
             // 
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label25.Location = new System.Drawing.Point(475, 164);
+            this.label25.Location = new System.Drawing.Point(610, 423);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(20, 22);
             this.label25.TabIndex = 116;
@@ -122,7 +134,7 @@
             // 
             // txt_BoxtrezВитяг
             // 
-            this.txt_BoxtrezВитяг.Location = new System.Drawing.Point(524, 116);
+            this.txt_BoxtrezВитяг.Location = new System.Drawing.Point(659, 375);
             this.txt_BoxtrezВитяг.Name = "txt_BoxtrezВитяг";
             this.txt_BoxtrezВитяг.Size = new System.Drawing.Size(69, 20);
             this.txt_BoxtrezВитяг.TabIndex = 112;
@@ -130,7 +142,7 @@
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label3.Location = new System.Drawing.Point(487, 123);
+            this.label3.Location = new System.Drawing.Point(622, 382);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(31, 13);
             this.label3.TabIndex = 111;
@@ -139,7 +151,7 @@
             // label24
             // 
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label24.Location = new System.Drawing.Point(476, 114);
+            this.label24.Location = new System.Drawing.Point(611, 373);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(42, 22);
             this.label24.TabIndex = 110;
@@ -147,7 +159,7 @@
             // 
             // txt_Boxtприв
             // 
-            this.txt_Boxtприв.Location = new System.Drawing.Point(253, 316);
+            this.txt_Boxtприв.Location = new System.Drawing.Point(659, 218);
             this.txt_Boxtприв.Name = "txt_Boxtприв";
             this.txt_Boxtприв.Size = new System.Drawing.Size(69, 20);
             this.txt_Boxtприв.TabIndex = 109;
@@ -155,7 +167,7 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label1.Location = new System.Drawing.Point(216, 323);
+            this.label1.Location = new System.Drawing.Point(622, 225);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(31, 13);
             this.label1.TabIndex = 108;
@@ -164,7 +176,7 @@
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label2.Location = new System.Drawing.Point(205, 314);
+            this.label2.Location = new System.Drawing.Point(611, 216);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(42, 22);
             this.label2.TabIndex = 107;
@@ -172,7 +184,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(366, 166);
+            this.button1.Location = new System.Drawing.Point(393, 294);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(81, 45);
             this.button1.TabIndex = 106;
@@ -182,49 +194,49 @@
             // 
             // Txt_boxVвтяг
             // 
-            this.Txt_boxVвтяг.Location = new System.Drawing.Point(253, 269);
+            this.Txt_boxVвтяг.Location = new System.Drawing.Point(659, 122);
             this.Txt_boxVвтяг.Name = "Txt_boxVвтяг";
             this.Txt_boxVвтяг.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxVвтяг.TabIndex = 105;
             // 
             // Txt_boxГк
             // 
-            this.Txt_boxГк.Location = new System.Drawing.Point(253, 166);
+            this.Txt_boxГк.Location = new System.Drawing.Point(296, 407);
             this.Txt_boxГк.Name = "Txt_boxГк";
             this.Txt_boxГк.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxГк.TabIndex = 104;
             // 
             // Txt_boxVсер
             // 
-            this.Txt_boxVсер.Location = new System.Drawing.Point(253, 116);
+            this.Txt_boxVсер.Location = new System.Drawing.Point(296, 350);
             this.Txt_boxVсер.Name = "Txt_boxVсер";
             this.Txt_boxVсер.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxVсер.TabIndex = 103;
             // 
             // Txt_boxS
             // 
-            this.Txt_boxS.Location = new System.Drawing.Point(109, 222);
+            this.Txt_boxS.Location = new System.Drawing.Point(296, 272);
             this.Txt_boxS.Name = "Txt_boxS";
             this.Txt_boxS.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxS.TabIndex = 102;
             // 
             // txt_BoxTС3
             // 
-            this.txt_BoxTС3.Location = new System.Drawing.Point(524, 271);
+            this.txt_BoxTС3.Location = new System.Drawing.Point(659, 547);
             this.txt_BoxTС3.Name = "txt_BoxTС3";
             this.txt_BoxTС3.Size = new System.Drawing.Size(69, 20);
             this.txt_BoxTС3.TabIndex = 101;
             // 
             // Txt_boxVвитяг
             // 
-            this.Txt_boxVвитяг.Location = new System.Drawing.Point(109, 166);
+            this.Txt_boxVвитяг.Location = new System.Drawing.Point(296, 188);
             this.Txt_boxVвитяг.Name = "Txt_boxVвитяг";
             this.Txt_boxVвитяг.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxVвитяг.TabIndex = 100;
             // 
             // Txt_boxLВитяг
             // 
-            this.Txt_boxLВитяг.Location = new System.Drawing.Point(109, 116);
+            this.Txt_boxLВитяг.Location = new System.Drawing.Point(296, 98);
             this.Txt_boxLВитяг.Name = "Txt_boxLВитяг";
             this.Txt_boxLВитяг.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxLВитяг.TabIndex = 99;
@@ -232,7 +244,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(505, 67);
+            this.label9.Location = new System.Drawing.Point(513, 326);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(68, 13);
             this.label9.TabIndex = 98;
@@ -241,7 +253,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(158, 67);
+            this.label6.Location = new System.Drawing.Point(257, 22);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(111, 13);
             this.label6.TabIndex = 97;
@@ -250,7 +262,7 @@
             // label7
             // 
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label7.Location = new System.Drawing.Point(216, 276);
+            this.label7.Location = new System.Drawing.Point(622, 129);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(31, 13);
             this.label7.TabIndex = 96;
@@ -259,7 +271,7 @@
             // label8
             // 
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label8.Location = new System.Drawing.Point(222, 175);
+            this.label8.Location = new System.Drawing.Point(265, 416);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(31, 13);
             this.label8.TabIndex = 95;
@@ -268,7 +280,7 @@
             // label10
             // 
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label10.Location = new System.Drawing.Point(205, 267);
+            this.label10.Location = new System.Drawing.Point(611, 120);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(42, 22);
             this.label10.TabIndex = 94;
@@ -277,7 +289,7 @@
             // label14
             // 
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label14.Location = new System.Drawing.Point(205, 166);
+            this.label14.Location = new System.Drawing.Point(248, 407);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(42, 22);
             this.label14.TabIndex = 93;
@@ -286,7 +298,7 @@
             // label15
             // 
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label15.Location = new System.Drawing.Point(222, 123);
+            this.label15.Location = new System.Drawing.Point(265, 357);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(31, 13);
             this.label15.TabIndex = 92;
@@ -295,7 +307,7 @@
             // label16
             // 
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label16.Location = new System.Drawing.Point(205, 114);
+            this.label16.Location = new System.Drawing.Point(248, 348);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(37, 22);
             this.label16.TabIndex = 91;
@@ -304,7 +316,7 @@
             // label13
             // 
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label13.Location = new System.Drawing.Point(91, 229);
+            this.label13.Location = new System.Drawing.Point(278, 279);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(12, 13);
             this.label13.TabIndex = 90;
@@ -312,7 +324,7 @@
             // label12
             // 
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label12.Location = new System.Drawing.Point(489, 280);
+            this.label12.Location = new System.Drawing.Point(624, 556);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(22, 13);
             this.label12.TabIndex = 89;
@@ -321,7 +333,7 @@
             // label11
             // 
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label11.Location = new System.Drawing.Point(81, 171);
+            this.label11.Location = new System.Drawing.Point(268, 193);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(31, 13);
             this.label11.TabIndex = 88;
@@ -330,7 +342,7 @@
             // label5
             // 
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label5.Location = new System.Drawing.Point(80, 222);
+            this.label5.Location = new System.Drawing.Point(267, 272);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(23, 22);
             this.label5.TabIndex = 87;
@@ -339,7 +351,7 @@
             // label20
             // 
             this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label20.Location = new System.Drawing.Point(479, 271);
+            this.label20.Location = new System.Drawing.Point(610, 547);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(20, 22);
             this.label20.TabIndex = 86;
@@ -348,7 +360,7 @@
             // label21
             // 
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label21.Location = new System.Drawing.Point(70, 164);
+            this.label21.Location = new System.Drawing.Point(257, 186);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(23, 22);
             this.label21.TabIndex = 85;
@@ -357,7 +369,7 @@
             // label22
             // 
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label22.Location = new System.Drawing.Point(81, 123);
+            this.label22.Location = new System.Drawing.Point(268, 105);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(31, 13);
             this.label22.TabIndex = 84;
@@ -366,7 +378,7 @@
             // label23
             // 
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label23.Location = new System.Drawing.Point(70, 114);
+            this.label23.Location = new System.Drawing.Point(257, 96);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(23, 22);
             this.label23.TabIndex = 83;
@@ -375,7 +387,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(129, 174);
+            this.label4.Location = new System.Drawing.Point(316, 196);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(20, 13);
             this.label4.TabIndex = 82;
@@ -383,7 +395,7 @@
             // 
             // txt_BoxГр
             // 
-            this.txt_BoxГр.Location = new System.Drawing.Point(253, 222);
+            this.txt_BoxГр.Location = new System.Drawing.Point(296, 507);
             this.txt_BoxГр.Name = "txt_BoxГр";
             this.txt_BoxГр.Size = new System.Drawing.Size(69, 20);
             this.txt_BoxГр.TabIndex = 124;
@@ -391,7 +403,7 @@
             // label17
             // 
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label17.Location = new System.Drawing.Point(222, 231);
+            this.label17.Location = new System.Drawing.Point(265, 516);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(31, 13);
             this.label17.TabIndex = 123;
@@ -400,17 +412,143 @@
             // label18
             // 
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label18.Location = new System.Drawing.Point(205, 222);
+            this.label18.Location = new System.Drawing.Point(248, 507);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(42, 22);
             this.label18.TabIndex = 122;
             this.label18.Text = "Г";
             // 
+            // label28
+            // 
+            this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label28.Location = new System.Drawing.Point(13, 65);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(238, 71);
+            this.label28.TabIndex = 125;
+            this.label28.Text = "Відстань від передньої межі району розташування частини (підрозділу) до вихідного" +
+    " рубежу, км. (з  карти місцевості);";
+            // 
+            // label29
+            // 
+            this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label29.Location = new System.Drawing.Point(13, 161);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(238, 71);
+            this.label29.TabIndex = 126;
+            this.label29.Text = "Швидкість колон під час витягування з району зосередження, км/год. (Бойовий стату" +
+    "т СВ ч.2,визначається рішенням командира);";
+            // 
+            // label30
+            // 
+            this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label30.Location = new System.Drawing.Point(13, 251);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(238, 71);
+            this.label30.TabIndex = 127;
+            this.label30.Text = "Протяжність маршруту від вихідного рубежу до дальньої межі районі зосередження, к" +
+    "м. (з  карти місцевості);";
+            // 
+            // label31
+            // 
+            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label31.Location = new System.Drawing.Point(13, 336);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(238, 71);
+            this.label31.TabIndex = 128;
+            this.label31.Text = "середня швидкість руху колон під час маршу, км/год. (Бойовий статут СВ ,визначаєт" +
+    "ься рішенням командира);";
+            // 
+            // label32
+            // 
+            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label32.Location = new System.Drawing.Point(13, 425);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(238, 71);
+            this.label32.TabIndex = 129;
+            this.label32.Text = "глибина колони, км. (Бойовий статут СВ ,визначається рішенням командира);";
+            // 
+            // label33
+            // 
+            this.label33.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label33.Location = new System.Drawing.Point(13, 496);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(219, 44);
+            this.label33.TabIndex = 130;
+            this.label33.Text = "Глибина району зосередження, км. (з  карти місцевості);";
+            // 
+            // label34
+            // 
+            this.label34.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label34.Location = new System.Drawing.Point(390, 98);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(215, 71);
+            this.label34.TabIndex = 131;
+            this.label34.Text = "Швидкість втягування колони в район зосередження, км/год. (складає від 0,5 до 0,7" +
+    "5 від швидкості руху на маршруті висування, визначається рішенням командира);";
+            // 
+            // label35
+            // 
+            this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label35.Location = new System.Drawing.Point(390, 201);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(207, 71);
+            this.label35.TabIndex = 132;
+            this.label35.Text = "Час на привали, год. ( Бойовий статут СВ, визначається рішенням командира).";
+            // 
+            // label36
+            // 
+            this.label36.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label36.Location = new System.Drawing.Point(390, 350);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(207, 54);
+            this.label36.TabIndex = 133;
+            this.label36.Text = "Час витягування сил і засобів з району зосередження до вихідного рубежу, год., хв" +
+    ".;";
+            // 
+            // label37
+            // 
+            this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label37.Location = new System.Drawing.Point(390, 416);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(207, 47);
+            this.label37.TabIndex = 134;
+            this.label37.Text = "Час руху колон по маршруту висування, год., хв.;";
+            // 
+            // label38
+            // 
+            this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label38.Location = new System.Drawing.Point(390, 463);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(157, 54);
+            this.label38.TabIndex = 135;
+            this.label38.Text = "Час втягування сил та засобів в район зосередження год., хв.; ";
+            // 
+            // label39
+            // 
+            this.label39.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label39.Location = new System.Drawing.Point(390, 530);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(157, 37);
+            this.label39.TabIndex = 136;
+            this.label39.Text = "Час маневру силами і засобами, год.,хв.";
+            // 
             // Alg7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(741, 410);
+            this.ClientSize = new System.Drawing.Size(794, 638);
+            this.Controls.Add(this.label39);
+            this.Controls.Add(this.label38);
+            this.Controls.Add(this.label37);
+            this.Controls.Add(this.label36);
+            this.Controls.Add(this.label35);
+            this.Controls.Add(this.label34);
+            this.Controls.Add(this.label33);
+            this.Controls.Add(this.label32);
+            this.Controls.Add(this.label31);
+            this.Controls.Add(this.label30);
+            this.Controls.Add(this.label29);
+            this.Controls.Add(this.label28);
             this.Controls.Add(this.txt_BoxГр);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.label18);
@@ -500,5 +638,17 @@
         private System.Windows.Forms.TextBox txt_BoxГр;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.Label label29;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.Label label33;
+        private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.Label label36;
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label label39;
     }
 }

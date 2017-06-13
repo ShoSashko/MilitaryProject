@@ -41,11 +41,14 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txt_Boxxц
             // 
-            this.txt_Boxxц.Location = new System.Drawing.Point(535, 171);
+            this.txt_Boxxц.Location = new System.Drawing.Point(590, 194);
             this.txt_Boxxц.Name = "txt_Boxxц";
             this.txt_Boxxц.Size = new System.Drawing.Size(69, 20);
             this.txt_Boxxц.TabIndex = 418;
@@ -53,7 +56,7 @@
             // label12
             // 
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label12.Location = new System.Drawing.Point(487, 169);
+            this.label12.Location = new System.Drawing.Point(542, 192);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(23, 22);
             this.label12.TabIndex = 417;
@@ -62,7 +65,7 @@
             // 
             // txt_Boxyц
             // 
-            this.txt_Boxyц.Location = new System.Drawing.Point(535, 217);
+            this.txt_Boxyц.Location = new System.Drawing.Point(590, 235);
             this.txt_Boxyц.Name = "txt_Boxyц";
             this.txt_Boxyц.Size = new System.Drawing.Size(69, 20);
             this.txt_Boxyц.TabIndex = 416;
@@ -70,7 +73,7 @@
             // label14
             // 
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label14.Location = new System.Drawing.Point(502, 226);
+            this.label14.Location = new System.Drawing.Point(557, 244);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(27, 13);
             this.label14.TabIndex = 415;
@@ -79,7 +82,7 @@
             // label15
             // 
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label15.Location = new System.Drawing.Point(487, 217);
+            this.label15.Location = new System.Drawing.Point(542, 235);
             this.label15.Name = "label15";
             this.label15.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label15.Size = new System.Drawing.Size(23, 22);
@@ -88,7 +91,7 @@
             // 
             // txt_BoxA
             // 
-            this.txt_BoxA.Location = new System.Drawing.Point(129, 217);
+            this.txt_BoxA.Location = new System.Drawing.Point(274, 265);
             this.txt_BoxA.Name = "txt_BoxA";
             this.txt_BoxA.Size = new System.Drawing.Size(69, 20);
             this.txt_BoxA.TabIndex = 412;
@@ -96,7 +99,7 @@
             // label7
             // 
             this.label7.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label7.Location = new System.Drawing.Point(81, 215);
+            this.label7.Location = new System.Drawing.Point(226, 263);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(23, 22);
             this.label7.TabIndex = 409;
@@ -104,7 +107,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(299, 171);
+            this.button1.Location = new System.Drawing.Point(350, 36);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(81, 45);
             this.button1.TabIndex = 408;
@@ -114,7 +117,7 @@
             // 
             // Txt_boxD
             // 
-            this.Txt_boxD.Location = new System.Drawing.Point(129, 164);
+            this.Txt_boxD.Location = new System.Drawing.Point(274, 141);
             this.Txt_boxD.Name = "Txt_boxD";
             this.Txt_boxD.Size = new System.Drawing.Size(69, 20);
             this.Txt_boxD.TabIndex = 407;
@@ -122,7 +125,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(509, 86);
+            this.label9.Location = new System.Drawing.Point(576, 36);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(68, 13);
             this.label9.TabIndex = 406;
@@ -131,7 +134,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(100, 94);
+            this.label6.Location = new System.Drawing.Point(60, 36);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(111, 13);
             this.label6.TabIndex = 405;
@@ -140,7 +143,7 @@
             // label5
             // 
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.label5.Location = new System.Drawing.Point(81, 164);
+            this.label5.Location = new System.Drawing.Point(226, 141);
             this.label5.Name = "label5";
             this.label5.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label5.Size = new System.Drawing.Size(23, 22);
@@ -150,17 +153,50 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
-            this.label1.Location = new System.Drawing.Point(502, 178);
+            this.label1.Location = new System.Drawing.Point(557, 201);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(27, 13);
             this.label1.TabIndex = 419;
             this.label1.Text = "ц";
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label2.Location = new System.Drawing.Point(12, 128);
+            this.label2.Name = "label2";
+            this.label2.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label2.Size = new System.Drawing.Size(208, 47);
+            this.label2.TabIndex = 420;
+            this.label2.Text = "Відстань від бойової машини до цілі, (м);";
+            // 
+            // label3
+            // 
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label3.Location = new System.Drawing.Point(12, 237);
+            this.label3.Name = "label3";
+            this.label3.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label3.Size = new System.Drawing.Size(208, 65);
+            this.label3.TabIndex = 421;
+            this.label3.Text = "Кут від вертикальної сітки топографічної карти на ціль, (град.).";
+            // 
+            // label4
+            // 
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.label4.Location = new System.Drawing.Point(385, 213);
+            this.label4.Name = "label4";
+            this.label4.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label4.Size = new System.Drawing.Size(128, 31);
+            this.label4.TabIndex = 422;
+            this.label4.Text = "Координати цілі.";
             // 
             // Alg31
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(720, 397);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txt_Boxxц);
             this.Controls.Add(this.label12);
@@ -176,6 +212,7 @@
             this.Controls.Add(this.label5);
             this.Name = "Alg31";
             this.Text = "Визначення координат цілі при зовнішньому цілевказуванні";
+            this.Load += new System.EventHandler(this.Alg31_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -196,5 +233,8 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }

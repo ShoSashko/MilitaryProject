@@ -200,5 +200,65 @@ namespace MilitaryProject
             Alg22FM alg22 = new Alg22FM();
             alg22.Show();
         }
+
+        private void розрахунокВогневихМожливостейСвоїхВійськПоНанесеннюУраженняЗВогневихРубежівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg23 alg23 = new Alg23();
+            alg23.Show();
+        }
+
+        private void розрахунокПоВогневомуУраженнюПротивникаПриПроведеніКонтратакиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg24 alg24 = new Alg24();
+            alg24.Show();
+        }
+
+        private void розрахунокВогневихМожливостейСвоїхВійськПоНанесеннюУраженняЗВогневихРубежівПриВідбиттіКонтратакПротивникаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg25 alg25 = new Alg25();
+            alg25.Show();
+        }
+
+        private void розрахунокВогневихМожливостейСвоїхВійськПоВизначеннюЩільностіСилІЗасобівНа1КмФронтуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg26 alg26 = new Alg26();
+            alg26.Show();
+        }
+
+        private void ураженняПідрозділівПохідноїОхорониПротивникаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg27 alg27 = new Alg27();
+            alg27.Show();
+        }
+
+        private void розрахунокЧасуНаРозгортанняВогневихЗасобівартилерійськихПідрозділівУЗустрічномуБоюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg28 alg28 = new Alg28();
+            alg28.Show();
+        }
+
+        private void алгоритмРозрахункуТривалостіЗміниВогневихПозиційрайонівРозташуванняЗасобамиППОToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg30 alg30 = new Alg30();
+            alg30.Show();
+        }
+
+        private void визначенняПоточнихКоординатБойовоїМашиниПриПроведенніЦілерозподілуТаЦілевказуванніToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg32 alg32 = new Alg32();
+            alg32.Show();
+        }
+
+        private void визначенняВідстаніДоПунктуПризначенняТаКутаНаНьогоToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg33 alg33 = new Alg33();
+            alg33.Show();
+        }
+
+        private void розрахункиЧасуНаЗмінуВогневихПозиційАртилерієюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg29 alg29 = new Alg29();
+            alg29.Show();
+        }
     }
 }

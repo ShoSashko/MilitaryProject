@@ -140,3 +140,6 @@ D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\De
 D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.csproj.GenerateResource.Cache
 D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.exe
 D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.pdb
+D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg6k.resources
+D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg7k.resources
+D:\projects\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg8k.resources

@@ -260,5 +260,23 @@ namespace MilitaryProject
             Alg29 alg29 = new Alg29();
             alg29.Show();
         }
+
+        private void розрахункиЗонРадіоактивногоХімічногоЗараженняТаПодоланняДілянокЗараженняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg6k alg6 = new Alg6k();
+            alg6.Show();
+        }
+
+        private void розрахунокЧасуОрганізаціїТаВеденняІнженерноїРозвідкиОбєктуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg7k alg7 = new Alg7k();
+            alg7.Show();
+        }
+
+        private void розрахунокОбсягуІнженернихЗаходівМаскуванняToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg8k alg = new Alg8k();
+            alg.Show();
+        }
     }
 }

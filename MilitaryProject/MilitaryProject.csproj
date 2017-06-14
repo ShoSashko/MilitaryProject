@@ -250,11 +250,23 @@
     <Compile Include="Alg7.Designer.cs">
       <DependentUpon>Alg7.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg7k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg7k.Designer.cs">
+      <DependentUpon>Alg7k.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg8.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Alg8.Designer.cs">
       <DependentUpon>Alg8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg8k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg8k.Designer.cs">
+      <DependentUpon>Alg8k.cs</DependentUpon>
     </Compile>
     <Compile Include="Alg9.cs">
       <SubType>Form</SubType>
@@ -397,8 +409,14 @@
     <EmbeddedResource Include="Alg7.resx">
       <DependentUpon>Alg7.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Alg7k.resx">
+      <DependentUpon>Alg7k.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Alg8.resx">
       <DependentUpon>Alg8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg8k.resx">
+      <DependentUpon>Alg8k.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg9.resx">
       <DependentUpon>Alg9.cs</DependentUpon>

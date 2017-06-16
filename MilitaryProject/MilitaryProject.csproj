@@ -202,6 +202,42 @@
     <Compile Include="Alg33.Designer.cs">
       <DependentUpon>Alg33.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg34.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg34.Designer.cs">
+      <DependentUpon>Alg34.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg35.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg35.Designer.cs">
+      <DependentUpon>Alg35.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg36.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg36.Designer.cs">
+      <DependentUpon>Alg36.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg37.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg37.Designer.cs">
+      <DependentUpon>Alg37.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg38.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg38.Designer.cs">
+      <DependentUpon>Alg38.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg39.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg39.Designer.cs">
+      <DependentUpon>Alg39.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg3k.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -384,6 +420,24 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Alg33.resx">
       <DependentUpon>Alg33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg34.resx">
+      <DependentUpon>Alg34.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg35.resx">
+      <DependentUpon>Alg35.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg36.resx">
+      <DependentUpon>Alg36.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg37.resx">
+      <DependentUpon>Alg37.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg38.resx">
+      <DependentUpon>Alg38.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg39.resx">
+      <DependentUpon>Alg39.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg3k.resx">
       <DependentUpon>Alg3k.cs</DependentUpon>

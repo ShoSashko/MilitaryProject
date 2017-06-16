@@ -278,5 +278,41 @@ namespace MilitaryProject
             Alg8k alg = new Alg8k();
             alg.Show();
         }
+
+        private void розрахунокНеобхідноїКількостіІнженернорозвідувальнихПідрозділівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg35 alg35 = new Alg35();
+            alg35.Show();
+        }
+
+        private void розрахункиЗОрганізаціїТаВеденняІнженерноїРозвідкиОбєктуToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg34 alg34 = new Alg34();
+            alg34.Show();
+        }
+
+        private void розрахунокКількостіСилІЗасобівДляІнженерногоОбладнанняМісцевостіToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg36 alg36 = new Alg36();
+            alg36.Show();
+        }
+
+        private void алгоритмРозрахункуКількостіСилТаЗасобівДляФортифікаційногоОбладнанняСмугирайонуОборониToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg37 alg37 = new Alg37();
+            alg37.Show();
+        }
+
+        private void розрахунокЧасткиУчастіІнженернихЗагородженьУВогневомуУраженніПротивникаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg38 alg38 = new Alg38();
+            alg38.Show();
+        }
+
+        private void розрахунокМожливостейЩодоУлаштуванняМВЗІзВрахуваннямЕфективностіТаМожливостейПротивникаПоЇхПодоланнюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg39 alg39 = new Alg39();
+            alg39.Show();
+        }
     }
 }

@@ -151,3 +151,10 @@ D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\De
 D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg37.resources
 D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg38.resources
 D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg39.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg40.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg41.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg42.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg43.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg44.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg45unfinished.resources
+D:\Проект Універу Вояки\MilitaryProject\MilitaryProject\obj\Debug\MilitaryProject.Alg46.resources

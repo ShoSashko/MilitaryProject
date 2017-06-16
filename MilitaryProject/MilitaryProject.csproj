@@ -250,6 +250,48 @@
     <Compile Include="Alg4.Designer.cs">
       <DependentUpon>Alg4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg40.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg40.Designer.cs">
+      <DependentUpon>Alg40.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg41.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg41.Designer.cs">
+      <DependentUpon>Alg41.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg42.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg42.Designer.cs">
+      <DependentUpon>Alg42.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg43.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg43.Designer.cs">
+      <DependentUpon>Alg43.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg44.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg44.Designer.cs">
+      <DependentUpon>Alg44.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg45unfinished.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg45unfinished.Designer.cs">
+      <DependentUpon>Alg45unfinished.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg46.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg46.Designer.cs">
+      <DependentUpon>Alg46.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg4k.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -444,6 +486,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Alg4.resx">
       <DependentUpon>Alg4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg40.resx">
+      <DependentUpon>Alg40.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg41.resx">
+      <DependentUpon>Alg41.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg42.resx">
+      <DependentUpon>Alg42.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg43.resx">
+      <DependentUpon>Alg43.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg44.resx">
+      <DependentUpon>Alg44.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg45unfinished.resx">
+      <DependentUpon>Alg45unfinished.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg46.resx">
+      <DependentUpon>Alg46.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg4k.resx">
       <DependentUpon>Alg4k.cs</DependentUpon>

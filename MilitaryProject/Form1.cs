@@ -314,5 +314,47 @@ namespace MilitaryProject
             Alg39 alg39 = new Alg39();
             alg39.Show();
         }
+
+        private void розрахунокЩодоПроробленняПроходівВДистанційновстановленихІУЗвичайнихМінновибуховихЗагородженняхToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg46 alg46 = new Alg46();
+            alg46.Show();
+        }
+
+        private void розрахунокСтворенняІнженернихЗагородженьНаТанконебезпечнихНапрямкахToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg45unfinished alg45 = new Alg45unfinished();
+            alg45.Show();
+        }
+
+        private void розрахунокЧасуНеобхідногоДляПереправиТанківЧерезБрідІПідВодоюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg44 alg44 = new Alg44();
+            alg44.Show();
+        }
+
+        private void розрахунокЧасуНеобхідногоДляРейсуПереправочнихЗасобівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg43 alg43 = new Alg43();
+            alg43.Show();
+        }
+
+        private void розрахунокЧасуНеобхідногоДляПереправиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg42 alg42 = new Alg42();
+            alg42.Show();
+        }
+
+        private void методикаРозрахункуНаПереправуПриФорсуванніВоднихПерешкодToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg41 alg41 = new Alg41);
+            alg41.Show();
+        }
+
+        private void розрахунокКількостіМінДляОблаштуванняМінновибуховихЗагородженьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg40 alg40 = new Alg40();
+            alg40.Show();
+        }
     }
 }

@@ -347,7 +347,7 @@ namespace MilitaryProject
 
         private void методикаРозрахункуНаПереправуПриФорсуванніВоднихПерешкодToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Alg41 alg41 = new Alg41);
+            Alg41 alg41 = new Alg41();
             alg41.Show();
         }
 
@@ -355,6 +355,54 @@ namespace MilitaryProject
         {
             Alg40 alg40 = new Alg40();
             alg40.Show();
+        }
+
+        private void розрахунокЧасуНаФорсуванняВодноїПерешкодиДляРізнихПереправнихЗасобівToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg47 alg47 = new Alg47();
+            alg47.Show();
+        }
+
+        private void розрахунокЧасуРухуТанківТаГлибиниКолониПриПереправіПідВодоюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg49 alg49 = new Alg49();
+            alg49.Show();
+        }
+
+        private void розрахунокЧасуРухуПоМостуЗПонтонномостовогоПаркуТаГлибиниКолониПриПереправіПоМостамToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg48 alg48 = new Alg48();
+            alg48.Show();
+        }
+
+        private void розрахунокПереправиЗєднанняпідрозділуЧастиниПриФорсуванніВодноїПерешкодиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg52 alg52 = new Alg52();
+            alg52.Show();
+        }
+
+        private void розрахунокПереправиПоМостамToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg53 alg53 = new Alg53();
+            alg53.Show();
+        }
+
+        private void розрахунокПереправиТанківПідВодоюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg54 alg54 = new Alg54();
+            alg54.Show();
+        }
+
+        private void визначенняМожливостейПротивникаЗУлаштуванняІнженернихЗагородженьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg51 alg51 = new Alg51();
+            alg51.Show();
+        }
+
+        private void визначенняКількостіІнженернихБоєприпасівТаІнженернихПідрозділівНеобхіднихДляВлаштуванняЗагородженьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alg50 alg50 = new Alg50();
+            alg50.Show();
         }
     }
 }

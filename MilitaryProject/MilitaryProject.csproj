@@ -292,6 +292,24 @@
     <Compile Include="Alg46.Designer.cs">
       <DependentUpon>Alg46.cs</DependentUpon>
     </Compile>
+    <Compile Include="Alg47.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg47.Designer.cs">
+      <DependentUpon>Alg47.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg48.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg48.Designer.cs">
+      <DependentUpon>Alg48.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg49.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg49.Designer.cs">
+      <DependentUpon>Alg49.cs</DependentUpon>
+    </Compile>
     <Compile Include="Alg4k.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -303,6 +321,36 @@
     </Compile>
     <Compile Include="Alg5.Designer.cs">
       <DependentUpon>Alg5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg50.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg50.Designer.cs">
+      <DependentUpon>Alg50.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg51%28unfinished%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg51%28unfinished%29.Designer.cs">
+      <DependentUpon>Alg51%28unfinished%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg52.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg52.Designer.cs">
+      <DependentUpon>Alg52.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg53.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg53.Designer.cs">
+      <DependentUpon>Alg53.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alg54.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alg54.Designer.cs">
+      <DependentUpon>Alg54.cs</DependentUpon>
     </Compile>
     <Compile Include="Alg5k.cs">
       <SubType>Form</SubType>
@@ -508,11 +556,35 @@
     <EmbeddedResource Include="Alg46.resx">
       <DependentUpon>Alg46.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Alg47.resx">
+      <DependentUpon>Alg47.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg48.resx">
+      <DependentUpon>Alg48.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg49.resx">
+      <DependentUpon>Alg49.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Alg4k.resx">
       <DependentUpon>Alg4k.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg5.resx">
       <DependentUpon>Alg5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg50.resx">
+      <DependentUpon>Alg50.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg51%28unfinished%29.resx">
+      <DependentUpon>Alg51%28unfinished%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg52.resx">
+      <DependentUpon>Alg52.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg53.resx">
+      <DependentUpon>Alg53.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alg54.resx">
+      <DependentUpon>Alg54.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Alg5k.resx">
       <DependentUpon>Alg5k.cs</DependentUpon>
